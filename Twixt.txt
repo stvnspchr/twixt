@@ -1,0 +1,15 @@
+Twixt
+
+2007
+
+Steven Speicher
+
+
+
+Twixt is board game where players take turns placing pegs on a 24X24 grid. The object of the game is 
+to "connect" pegs from opposite sides. Red travels horizontally and blue travels vertically. Only 
+the matching color can play in the first or last row or column. If a player places a peg in any 
+combination of 2 in one direction and 1 in a perpendicular direction (like the rook in chess) then 
+a connector is placed on the board connecting the two pegs. You cannot place pegs on the same spot, 
+and connectors are not allowed to overlap. You are allowed to move anywhere on the board at any time 
+as long as it does not go into opponents row or column.
